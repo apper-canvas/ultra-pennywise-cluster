@@ -1,0 +1,30 @@
+[
+  {
+    "id": "budget_001",
+    "categoryId": "cat_001",
+    "amount": 500,
+    "period": "monthly",
+    "spent": 0
+  },
+  {
+    "id": "budget_002",
+    "categoryId": "cat_002",
+    "amount": 200,
+    "period": "monthly",
+    "spent": 0
+  },
+  {
+    "id": "budget_003",
+    "categoryId": "cat_003",
+    "amount": 400,
+    "period": "monthly",
+    "spent": 0
+  },
+  {
+    "id": "budget_004",
+    "categoryId": "cat_004",
+    "amount": 150,
+    "period": "monthly",
+    "spent": 0
+  }
+]

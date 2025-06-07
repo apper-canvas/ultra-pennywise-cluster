@@ -1,0 +1,65 @@
+[
+  {
+    "id": "exp_001",
+    "amount": 45.67,
+    "category": "Food & Dining",
+    "description": "Lunch at Mediterranean Grill",
+    "date": "2024-01-15T12:30:00Z",
+    "tags": ["restaurant", "lunch"],
+    "createdAt": "2024-01-15T12:35:00Z"
+  },
+  {
+    "id": "exp_002",
+    "amount": 89.99,
+    "category": "Transportation",
+    "description": "Monthly bus pass renewal",
+    "date": "2024-01-14T09:15:00Z",
+    "tags": ["public transport", "monthly"],
+    "createdAt": "2024-01-14T09:20:00Z"
+  },
+  {
+    "id": "exp_003",
+    "amount": 127.50,
+    "category": "Groceries",
+    "description": "Weekly grocery shopping at Whole Foods",
+    "date": "2024-01-13T16:45:00Z",
+    "tags": ["groceries", "weekly"],
+    "createdAt": "2024-01-13T17:00:00Z"
+  },
+  {
+    "id": "exp_004",
+    "amount": 15.99,
+    "category": "Entertainment",
+    "description": "Netflix monthly subscription",
+    "date": "2024-01-12T08:00:00Z",
+    "tags": ["streaming", "subscription"],
+    "createdAt": "2024-01-12T08:05:00Z"
+  },
+  {
+    "id": "exp_005",
+    "amount": 250.00,
+    "category": "Healthcare",
+    "description": "Dental cleaning and checkup",
+    "date": "2024-01-11T14:30:00Z",
+    "tags": ["dental", "checkup"],
+    "createdAt": "2024-01-11T15:00:00Z"
+  },
+  {
+    "id": "exp_006",
+    "amount": 75.20,
+    "category": "Utilities",
+    "description": "Internet bill - January",
+    "date": "2024-01-10T10:00:00Z",
+    "tags": ["internet", "monthly"],
+    "createdAt": "2024-01-10T10:05:00Z"
+  },
+  {
+    "id": "exp_007",
+    "amount": 32.99,
+    "category": "Food & Dining",
+    "description": "Coffee and pastries at local café",
+    "date": "2024-01-09T08:30:00Z",
+    "tags": ["coffee", "breakfast"],
+    "createdAt": "2024-01-09T08:35:00Z"
+  }
+]
